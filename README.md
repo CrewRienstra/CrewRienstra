@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CrewRienstra
 - 👀 I’m interested in ...starting a career in app &/or web development. 
 - 🌱 I’m currently learning ...Html,Css,Java, & Python. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...website developement as of now. 
 - 📫 How to reach me ...crewrienstra@gmail.com
 
 <!---
